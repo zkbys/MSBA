@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Large files and datasets
+data/
+local_data/
+outputs/
+pretrained/
+Bio_ClinicalBERT/
+Swin_Transformer/
